@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian García
 
-<!--
-**CristianGR-DEV/CristianGR-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Cristian García — Frontend Developer`
 
-Here are some ideas to get you started:
+> **“What I cannot create, I do not understand.”**
+> — Richard Feynman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y cuento con el título de **Sistemas Microinformáticos y Redes (SMR)**.
+
+Mi principal interés está en el **desarrollo frontend**, especialmente en la creación de interfaces atractivas, funcionales y accesibles. Me gusta combinar **diseño y código** para transformar unas simples líneas de programación en experiencias web que realmente funcionen.
+
+También tengo interés por el **backend, la gestión de usuarios y la seguridad**, con el objetivo de desarrollar un perfil cada vez más completo.
+
+---
