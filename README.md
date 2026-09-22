@@ -15,13 +15,13 @@ También tengo interés por el **backend, la gestión de usuarios y la seguridad
 
 ## 🧑‍💻 Sobre mí
 
-* 🎓 DAW · `2024 - 2027`
-* 💻 SMR · `2022 - 2024`
-* 🎯 Enfocado en desarrollo **frontend**
-* 📍 Granada, España
-* 🔧 Creativo, resolutivo e independiente
-* 🤝 Me adapto bien al trabajo individual y en equipo
-* 🧠 Me gusta buscar soluciones diferentes cuando un problema no tiene una respuesta directa
+* DAW · `2024 - 2027`
+* SMR · `2022 - 2024`
+* Enfocado en desarrollo **frontend**
+* Granada, España
+* Creativo, resolutivo e independiente
+* Me adapto bien al trabajo individual y en equipo
+* Me gusta buscar soluciones diferentes cuando un problema no tiene una respuesta directa
 
 Me gusta trabajar con una **planificación clara pero flexible**, dejando espacio para adaptarme a los cambios e imprevistos que puedan aparecer durante el desarrollo.
 
@@ -64,5 +64,32 @@ Para mí, un código bien hecho debe ser **legible, organizado y fácil de compr
 | Git / GitHub | 🟡 Medio |
 
 > Mi objetivo no es acumular tecnologías, sino aprender a utilizarlas correctamente dentro de proyectos reales.
+
+---
+
+## 🚀 Proyectos
+
+### 🔐 Corebite
+
+**Corebite** es mi proyecto personal principal y actualmente se encuentra en desarrollo.
+
+La idea es crear una **plataforma social abierta**, donde cualquier usuario pueda registrarse y comunicarse con otras personas, combinando características propias de diferentes plataformas sociales y de comunicación.
+
+Algunas de las funcionalidades planteadas son:
+- [x] Creación y gestión de servidores
+- [x] Gestión de usuarios
+- [x] Creación de hilos
+- [ ] Chats grupales
+- [ ] Conversaciones individuales
+- [ ] Chat de voz
+- [ ] Llamadas privadas
+- [ ] Privacidad y protección de datos
+- [ ] Autenticación y control de permisos
+
+Actualmente está desarrollado de forma individual utilizando:
+
+`HTML` · `CSS` · `JavaScript`
+
+El objetivo de Corevite es tanto **aprender y ampliar mis conocimientos** como disponer de un proyecto propio que forme parte de mi portfolio.
 
 ---
