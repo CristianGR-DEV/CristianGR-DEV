@@ -49,3 +49,20 @@ Para mí, un código bien hecho debe ser **legible, organizado y fácil de compr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
+
+## 📊 Nivel actual
+
+| Tecnología   |   Nivel   |
+| :----------- | :-------: |
+| HTML         | 🟡 Medio |
+| CSS          | 🟡 Medio |
+| JavaScript   | 🟢 Básico |
+| PHP          | 🟢 Básico |
+| Java         | 🟢 Básico |
+| Python       | 🟢 Básico |
+| SQL / MySQL  | 🟢 Básico |
+| Git / GitHub | 🟡 Medio |
+
+> Mi objetivo no es acumular tecnologías, sino aprender a utilizarlas correctamente dentro de proyectos reales.
+
+---
