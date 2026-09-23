@@ -93,3 +93,15 @@ Actualmente está desarrollado de forma individual utilizando:
 El objetivo de Corevite es tanto **aprender y ampliar mis conocimientos** como disponer de un proyecto propio que forme parte de mi portfolio.
 
 ---
+
+## 🎨 Cómo trabajo
+
+Me gusta adaptar el diseño a lo que necesita cada proyecto en lugar de seguir siempre un único estilo.
+
+Para mí, una buena interfaz debe ser:
+
+**Visualmente atractiva** · **cómoda** · **accesible** · **fluida** · **interactiva** · **mantenible**
+
+También considero importante que una web pueda utilizarse correctamente desde diferentes dispositivos, por lo que trabajo con técnicas de diseño responsive como:
+
+`Media Queries` · `Flexbox` · `CSS Grid`
