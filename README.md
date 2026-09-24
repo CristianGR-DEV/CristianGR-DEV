@@ -1,4 +1,4 @@
-# 👋 Hola, soy Cristian García
+# Hola, soy Cristian García
 
 ### `Cristian García — Frontend Developer`
 
@@ -15,7 +15,7 @@ También me interesa el **backend, la gestión de usuarios y la seguridad**, ya 
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 * DAW · `2024 - 2027`
 * SMR · `2022 - 2024`
@@ -33,7 +33,7 @@ También intento pensar en que, si vuelvo a mirar un proyecto dentro de unos mes
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Frontend
 
@@ -54,7 +54,7 @@ También intento pensar en que, si vuelvo a mirar un proyecto dentro de unos mes
 
 ---
 
-## 📊 Nivel actual
+## Nivel actual
 
 | Tecnología   |   Nivel   |
 | :----------- | :-------: |
@@ -71,9 +71,9 @@ También intento pensar en que, si vuelvo a mirar un proyecto dentro de unos mes
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-### 🔐 Corebite
+### Corebite
 
 **Corebite** es mi proyecto personal principal y actualmente sigue en desarrollo.
 
@@ -101,7 +101,7 @@ El objetivo de Corebite es **seguir aprendiendo y mejorar mis conocimientos**, p
 
 ---
 
-## 🎨 Cómo trabajo
+## Cómo trabajo
 
 Me gusta adaptar el diseño a lo que necesita cada proyecto y no utilizar siempre el mismo estilo.
 
@@ -117,7 +117,7 @@ Para ello utilizo cosas como:
 
 ---
 
-## 🧠 Mi forma de resolver problemas
+## Mi forma de resolver problemas
 
 Cuando me encuentro con un problema que no sé resolver, lo primero que hago es intentar buscar una solución directa.
 
@@ -131,7 +131,7 @@ También intento que la solución quede clara y ordenada, para que otra persona 
 
 ---
 
-🤖 Declaración del uso de IA
+## Declaración del uso de IA
 
 Durante la realización de esta práctica e utilizado ChatGPT como herramienta de apoyo puntual.
 
